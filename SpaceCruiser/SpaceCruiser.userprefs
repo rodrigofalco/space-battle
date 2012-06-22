@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NewBehaviourScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\starts\starsInitializer.js">
     <Files>
-      <File FileName="Assets\NewBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\starts\starsInitializer.js" Line="7" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
